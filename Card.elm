@@ -1,6 +1,10 @@
 import Window
 import Mouse
 
+{-
+  This is a simple UI for clicking through a deck of cards
+  in order 5 at a time
+-}
 --- Constants
 h = div 392 4
 w = div 950 13
